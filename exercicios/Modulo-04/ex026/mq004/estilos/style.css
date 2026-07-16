@@ -2,7 +2,7 @@
 
 /* Versão Mobile First */
 
-*{
+* {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1em;
     margin: 0px;
@@ -12,12 +12,12 @@
 html {    
     height: 100vh;
 }
-body{
+body {
     background: black url(../imagens/back-phone.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
 }
-main{
+main {
     background-color: #ffffffd7;
     width: 400px;
     margin: auto;
@@ -25,14 +25,14 @@ main{
     border-radius: 10px;
     padding: 10px;
 }
-h1{
+h1 {
     text-align: center;
     color: white;
     font-size: 2em;
     text-shadow: 2px 2px 2px #0000007e;
 }
 
-img{
+img {
     display: block;
     margin: auto;
 }
